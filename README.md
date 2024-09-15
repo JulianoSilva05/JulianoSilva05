@@ -6,7 +6,7 @@
 </a>
 
 <p align="left">
-  <b>galerinha!</b> <br/>
+  <b>Galerinha!</b> <br/>
   Sou <b>Juliano Silva</b>, Professor de Desenvolvimento de Sistemas - Desenvolvedor BackEnd - Analista de Dados 
 </p>
 
