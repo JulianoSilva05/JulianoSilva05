@@ -78,11 +78,6 @@
   📧 <a href="mailto:juliano@gmail.com">juliano@gmail.com</a>
 </p>
 
-<h2>📊 Estatísticas</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens Mais Usadas" />
-</p>
 
 <h2>🛠️ Linguagens e Ferramentas</h2>
 <p align="left">
