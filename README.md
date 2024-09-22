@@ -56,6 +56,7 @@
 
 <h2>🎤 Palestras e Eventos</h2>
 <ul>
+  <li>Tecnologias no Aprendizado - Formação de Professores - PROZ</li>
   <li>Projeto Rondon - Operação João De Barro</li>
   <li>1º Encontros dos Rondonistas - UESC</li>
   <li>V Fórum de Informática e Gestão - IFSJ</li>
