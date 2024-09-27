@@ -1,19 +1,29 @@
-# Bem-vindo(a), Dev's!
+### Olá 👋, Mundo! Prazer, [Juliano!](https://portifolio-prof-juliano.vercel.app//)
 
----
+<a href="https://www.linkedin.com/in/julianogti/">
+  <img align="left" alt="LinkdeIn do Juliano" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/julianoqm/">
+  <img align="left" alt="Instagram do Juliano" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://api.whatsapp.com/send/?phone=5531984204877&text=Ol%C3%A1%2C+Juliano%21&type=phone_number&app_absent=0">
+  <img align="left" alt="Whats App" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a href="https://www.youtube.com/@Julianoqm">
+  <img align="left" alt="Youtube do Juliano" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-**Galerinha!**  
-Sou **Juliano Silva**, Professor de Desenvolvimento de Sistemas - Desenvolvedor BackEnd - Analista de Dados.
+<br />
+<br />
 
-Professor de Desenvolvimento de Sistemas - Apaixonado por lecionar e fã dos meus alunos!  
-
-Participei de diversos eventos de tecnologia atuando como mentor e tutor!
+Eu sou **Juliano Silva**, **Professor de Desenvolvimento de Sistemas** 🚀 e apaixonado por **Tecnologia** 🙍🏽‍♂️ [@JulianoSilva05](https://github.com/JulianoSilva05).
 
 
-
----
+  
 
 ## 🚀 Experiências Profissionais
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 - **Proz Educação** - Professor de Desenvolvimento de Sistemas  
   - Lógica de Programação  
@@ -53,38 +63,25 @@ Participei de diversos eventos de tecnologia atuando como mentor e tutor!
 - IoT
 
 ---
+- 💬 Faça uma pergunta, ficarei feliz em ajudar;
+- 📫 Envie um email para julianoqm@gmail.com.
+- 📝 veja meu Curriculo [Curriculum Vitae]([https://drive.google.com/file/d/1l7D4dUCSAGithmscqf1WlzrVybN20eyr/view?usp=sharing](https://llfl-my.sharepoint.com/:w:/g/personal/juliano_llfl_onmicrosoft_com/Eayz8oiTLs1LmYXb_QRi1IkBws3Qbga8omRERCWRZNhKyw?e=ZTI8aY)) 
 
-## 📫 Contato
 
-Fique à vontade para me chamar, ficarei muito feliz em poder ajudar!  
-📧 [juliano@gmail.com](mailto:julianoqm@gmail.com)
+**Linguagens e Ferramentas:**  
 
----
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## 🛠️ Linguagens e Ferramentas
 
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)  
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
-![Jest](https://www.learnstorybook.com/intro-to-storybook/logo-jest.png)  
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)  
-![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)  
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)  
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)  
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)  
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)  
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg)  
-![jQuery](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg)  
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg)  
-![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg)  
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)  
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg)  
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg)  
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg)  
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)  
-![Perl](https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Onion_Color.svg)
-
----
-
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
