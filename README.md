@@ -1,8 +1,8 @@
 <h1 align="center">Bem-vindo(a), Dev's!</h1>
 <hr />
 
-<a href="https://https://github.com/JulianoSilva05" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px" style="float: right;">
+<a href="https://github.com/JulianoSilva05" target="_blank" style="float: right;">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a>
 
 <p align="left">
@@ -10,25 +10,26 @@
   Sou <b>Juliano Silva</b>, Professor de Desenvolvimento de Sistemas - Desenvolvedor BackEnd - Analista de Dados 
 </p>
 
-<a href="https://www.instagram.com/julianoqm" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px" style="float: right;">
+<a href="https://www.instagram.com/julianoqm" target="_blank" style="float: right;">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a>
 
 <p align="left">
   Professor de Desenvolvimento de Sistemas - Apaixonado por lecionar e fã dos meus alunos!  <a href="https://www.youtube.com/@Julianoqm">YouTube</a> e <a href="https://www.instagram.com/julianoqm">Instagram</a>.
 </p>
 
-<a href="https://www.youtube.com/@Julianoqm" target="_blank">
-  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px" style="float: right;">
+<a href="https://www.youtube.com/@Julianoqm" target="_blank" style="float: right;">
+  <img src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 
 <p align="left">
-  Participei de Diverssos eventos de tecnologia atuando como mentor e tutor!
+  Participei de Diversos eventos de tecnologia atuando como mentor e tutor!
 </p>
 
-<a href="https://www.linkedin.com/in/julianogti/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px" style="float: right;">
+<a href="https://www.linkedin.com/in/julianogti/" target="_blank" style="float: right;">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+
 
 <h2>🚀 Experiências Profissionais</h2>
 <ul>
